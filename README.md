@@ -9,12 +9,10 @@ Part 2:
 1. Recorded video link: https://www.youtube.com/watch?v=Jwl0I3BEAow <br />
 I typed "A cat wearing a hat", and it generated images. <br />
 Demo link: https://replicate.com/thudm/cogview2  <br />
-<br />
 
 2. Recorded video link: https://www.youtube.com/watch?v=rql-CY-rcUc <br />
 I typed "a blue sky" <br />
 Demo link: https://www.craiyon.com/ <br />
-<br />
 
 3. Recorded video link:https://www.youtube.com/watch?v=dFRf-GOMRO0 <br />
 I typed "San Jose" and selected "fast_pixel" <br />
@@ -28,13 +26,10 @@ Demo link: https://app.wombo.art/  <br />
 I typed "I am a Pokemon" <br />
 Demo link:  https://huggingface.co/spaces/multimodalart/mindseye-lite<br />
 
-6. Recorded video link: <br />
-I typed "San Jose" and selected "fast_pixel" <br />
-Demo link:  <br />
-
-7. Recorded video link: <br />
-I typed "San Jose" and selected "fast_pixel" <br />
-Demo link:  <br />
+6 - 7. Recorded video link: <br />
+I typed "A Zombie" and tested two demo at the same time <br />
+Demo link: https://create.starryai.com/my-creations <br />
+Demo link: https://creator.nightcafe.studio/my-creations<br />
 
 8. Recorded video link: <br />
 I typed "San Jose" and selected "fast_pixel" <br />
