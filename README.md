@@ -31,14 +31,11 @@ I typed "A Zombie" and tested two demo at the same time <br />
 Demo link: https://create.starryai.com/my-creations <br />
 Demo link: https://creator.nightcafe.studio/my-creations<br />
 
-8. Recorded video link: <br />
-I typed "San Jose" and selected "fast_pixel" <br />
-Demo link:  <br />
-
-9. Recorded video link: <br />
-I typed "San Jose" and selected "fast_pixel" <br />
-Demo link: <br />
-
-10. Recorded video link:<br />
-I typed "San Jose" and selected "fast_pixel" <br />
-Demo link:  <br />
+8-13. Recorded video link: <br />
+I tried 6 demo in the same time<br />
+Demo link: https://replicate.com/cjwbw/repaint <br />
+https://huggingface.co/spaces/Salesforce/BLIP <br />
+https://huggingface.co/spaces/akhaliq/BlendGAN <br />
+https://huggingface.co/spaces/hackathon-pln-es/BioMedIA <br />
+https://huggingface.co/spaces/Gradio-Blocks/DualStyleGAN <br />
+https://huggingface.co/spaces/awacke1/Image2LineDrawing <br />
