@@ -23,3 +23,27 @@ Demo link: https://replicate.com/pixray/text2image <br />
 4. Recorded video link: https://www.youtube.com/watch?v=U76BR49rCvQ <br />
 I typed "yao ming" <br />
 Demo link: https://app.wombo.art/  <br />
+
+5. Recorded video link: https://www.youtube.com/watch?v=oH2sGfZOIy8<br />
+I typed "I am a Pokemon" <br />
+Demo link:  https://huggingface.co/spaces/multimodalart/mindseye-lite<br />
+
+6. Recorded video link: <br />
+I typed "San Jose" and selected "fast_pixel" <br />
+Demo link:  <br />
+
+7. Recorded video link: <br />
+I typed "San Jose" and selected "fast_pixel" <br />
+Demo link:  <br />
+
+8. Recorded video link: <br />
+I typed "San Jose" and selected "fast_pixel" <br />
+Demo link:  <br />
+
+9. Recorded video link: <br />
+I typed "San Jose" and selected "fast_pixel" <br />
+Demo link: <br />
+
+10. Recorded video link:<br />
+I typed "San Jose" and selected "fast_pixel" <br />
+Demo link:  <br />
