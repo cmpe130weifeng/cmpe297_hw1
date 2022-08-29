@@ -26,7 +26,7 @@ Demo link: https://app.wombo.art/  <br />
 I typed "I am a Pokemon" <br />
 Demo link:  https://huggingface.co/spaces/multimodalart/mindseye-lite<br />
 
-6 - 7. Recorded video link: <br />
+6 - 7. Recorded video link: https://youtu.be/tvi7odQOJFw <br />
 I typed "A Zombie" and tested two demo at the same time <br />
 Demo link: https://create.starryai.com/my-creations <br />
 Demo link: https://creator.nightcafe.studio/my-creations<br />
