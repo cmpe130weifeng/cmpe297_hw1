@@ -19,3 +19,7 @@ Demo link: https://www.craiyon.com/ <br />
 3. Recorded video link:https://www.youtube.com/watch?v=dFRf-GOMRO0 <br />
 I typed "San Jose" and selected "fast_pixel" <br />
 Demo link: https://replicate.com/pixray/text2image <br />
+
+4. Recorded video link: https://www.youtube.com/watch?v=U76BR49rCvQ <br />
+I typed "yao ming" <br />
+Demo link: https://app.wombo.art/  <br />
