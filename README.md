@@ -1,5 +1,7 @@
 # cmpe297_hw1
 
+Copilot is very helpful in automatic hinting of programming languages. You can also use copilot when writing a proposal or writing a project specification. It can save you a lot of time.<br />
+
 Part 1: <br />
 Recorded video link: https://www.youtube.com/watch?v=N26MTy1GQas <br />
 <br />
