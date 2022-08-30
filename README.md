@@ -6,7 +6,7 @@ Part 1: <br />
 Recorded video link: https://www.youtube.com/watch?v=N26MTy1GQas <br />
 <br />
 
-Part 2:
+Part 2: Try to include at least 10 cool demos <br />
 <br />
 1. Recorded video link: https://www.youtube.com/watch?v=Jwl0I3BEAow <br />
 I typed "A cat wearing a hat", and it generated images. <br />
