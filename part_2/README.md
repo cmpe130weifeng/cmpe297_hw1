@@ -1,4 +1,4 @@
-# cmpe297_hw1
+# cmpe297_hw1_part2
 
 Part 2: Try to include at least 10 cool demos <br />
 
