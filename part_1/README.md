@@ -1,4 +1,4 @@
-# cmpe297_hw1
+# cmpe297_hw1_part1
 
 GitHub Copilot is an AI tool that provides you code suggestions based on comments and the context of the file you're editing.<br />
 
