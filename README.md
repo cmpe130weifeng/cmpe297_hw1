@@ -4,7 +4,7 @@ Copilot is very helpful in automatic hinting of programming languages. You can a
 
 Part 1: <br />
 Recorded video link: https://www.youtube.com/watch?v=N26MTy1GQas <br />
-<br />
+Recorded video link2(run through code): https://www.youtube.com/watch?v=hnlwnq5xbLc<br />
 
 Part 2: Try to include at least 10 cool demos <br />
 
