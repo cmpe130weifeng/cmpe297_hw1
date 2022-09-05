@@ -4,6 +4,7 @@ GitHub Copilot is an AI tool that provides you code suggestions based on comment
 
 Part 1: <br />
 Recorded video link: https://www.youtube.com/watch?v=N26MTy1GQas <br />
+Recorded video link2(run through code): https://www.youtube.com/watch?v=hnlwnq5xbLc <br />
 
 I have test it for three the examples: tf.keras, pytorch, and linear regression. <br />
   1. tf.keras: I tried a basic CNN model on the mnist dataset. In this assignment, the key is to get familiar with the tool Copilot. Capliot is so powerful that, it provided me with a template of codes so that I can easily use them. I only ran 1 epoch. The result of loss is: 0.0186; and the accuracy is: 0.9942. <br />
