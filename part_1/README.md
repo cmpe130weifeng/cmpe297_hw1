@@ -3,7 +3,7 @@
 GitHub Copilot is an AI tool that provides you code suggestions based on comments and the context of the file you're editing.<br />
 As image shown, the AI can generate codes for you based on comments you make. <br />
 ![image](https://user-images.githubusercontent.com/32551600/188509096-f0d9fd15-ee0e-4d30-90c1-98fd1ddb88f1.png) <br />
-(Reference: Github Copilot)
+(from: Github Copilot)
 
 Part 1: <br />
 Recorded video link: https://www.youtube.com/watch?v=N26MTy1GQas <br />
