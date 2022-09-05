@@ -28,7 +28,7 @@ Demo websites: https://create.starryai.com/my-creations <br />
               https://creator.nightcafe.studio/my-creations<br />
 
 8-13. Recorded video link: https://www.youtube.com/watch?v=ggbAx4NkAn4<br />
-I tried 6 demo in the same time<br />
+I tried 6 demo in the same time, not all the demos can preform successfully.<br />
 Demo websites: https://replicate.com/cjwbw/repaint <br />
 https://huggingface.co/spaces/Salesforce/BLIP <br />
 https://huggingface.co/spaces/akhaliq/BlendGAN <br />
@@ -42,4 +42,9 @@ Here is the input I entered and output: <br />
 As a Chinese, I can tell it done a good job. <br />
 Output video: https://www.youtube.com/shorts/-dhmZ2YD5uI
 
-Demo website: https://huggingface.co/spaces/CVPR/ml-talking-face
+Demo website: https://huggingface.co/spaces/CVPR/ml-talking-face <br />
+
+15 - 16. I tried 2 more demos. <br />
+Recorded video link: <br />
+Demo website:  https://huggingface.co/spaces/CVPR/drawings-to-human <br />
+               https://replicate.com/rinongal/stylegan-nada <br />
