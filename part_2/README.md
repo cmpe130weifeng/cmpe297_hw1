@@ -44,7 +44,7 @@ Output video: https://www.youtube.com/shorts/-dhmZ2YD5uI
 
 Demo website: https://huggingface.co/spaces/CVPR/ml-talking-face <br />
 
-15 - 16. I tried 2 more demos. <br />
+15 - 16. I tried 2 more demos. One is Drawings to Human, it generates human figure image. Another one is stylegan-nada, it generates different style of images based on input image. https://youtu.be/KwwhyTXw0Ww<br />
 Recorded video link: <br />
 Demo website:  https://huggingface.co/spaces/CVPR/drawings-to-human <br />
                https://replicate.com/rinongal/stylegan-nada <br />
